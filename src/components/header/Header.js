@@ -1,5 +1,4 @@
 import React from 'react'
-import './index.css'
 import pic from './img/profPic.jpg'
 export default function Header() {
     return (
